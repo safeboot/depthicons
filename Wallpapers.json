@@ -5,7 +5,7 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/0c6a73b8ca883d5549ff4dea48a4de9510295a36/wallpapers/1-preview.png",
 		"collections": "Oppo",
 		"downloadable": true,
-		"dimensions": "720 x 1600 px",
+		"dimensions": "720 x 1600 px"
 	},
 	
 	{
@@ -14,7 +14,7 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/2-preview.png",
 		"collections": "Xiaomi",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
+		"dimensions": "1080 x 2400 px"
 	},
 	
 	{
@@ -23,7 +23,7 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/3-preview.png",
 		"collections": "Meizu",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
+		"dimensions": "1080 x 2400 px"
 	},
 	
 	{
@@ -32,7 +32,7 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/4-preview.png",
 		"collections": "Microsoft",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
+		"dimensions": "1080 x 2400 px"
 	},
 	
 	{
@@ -41,7 +41,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/safeboot/depthicons/main/wallpapers/5-preview.png",
 		"collections": "Xiaomi",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
+		"dimensions": "1080 x 2400 px"
 	},
 	
 	{
@@ -50,7 +50,7 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/6-preview.png",
 		"collections": "Realme",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
+		"dimensions": "1080 x 2400 px"
 	},
 	
 	{
@@ -59,7 +59,7 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/7-preview.png",
 		"collections": "Apple",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
+		"dimensions": "1080 x 2400 px"
 	},
 	
 	{
@@ -68,8 +68,8 @@
 		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/8-preview.png",
 		"collections": "Hampus Olsson",
 		"downloadable": true,
-		"dimensions": "1080 x 2400 px",
-	},
+		"dimensions": "1080 x 2400 px"
+	}
 	
 	
 ]
