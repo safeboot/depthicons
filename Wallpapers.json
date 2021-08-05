@@ -1,10 +1,75 @@
 [
 	{
 		"name": "Dance of Colors",
-		"author": "Oppo Art+",
-		"url": "https://rawcdn.githack.com/safeboot/depthicons/9d2353181db73db07c4aea31015d9320c691fa15/1.png",
-		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/9d2353181db73db07c4aea31015d9320c691fa15/1-preview.png",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/0c6a73b8ca883d5549ff4dea48a4de9510295a36/wallpapers/1%20-%20dance%20of%20colors%20-%20oppo.png",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/0c6a73b8ca883d5549ff4dea48a4de9510295a36/wallpapers/1-preview.png",
+		"collections": "Oppo",
 		"downloadable": true,
 		"dimensions": "720 x 1600 px",
-	}
+	},
+	
+	{
+		"name": "Beach",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/2%20-%20beach%20-%20xiaomi.png",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/2-preview.png",
+		"collections": "Xiaomi",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	{
+		"name": "Blueberry Soda",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/3%20-%20blueberry%20soda%20-%20meizu.png",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/3-preview.png",
+		"collections": "Meizu",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	{
+		"name": "Bubble",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/4%20-%20bubble%20-%20microsoft.png",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/4-preview.png",
+		"collections": "Microsoft",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	{
+		"name": "Desert",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/5%20-%20desert%20-%20xiaomi.png",
+		"thumbnail": "https://raw.githubusercontent.com/safeboot/depthicons/main/wallpapers/5-preview.png",
+		"collections": "Xiaomi",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	{
+		"name": "Flow",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/6%20-%20flow%20-%20realme.png",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/6-preview.png",
+		"collections": "Realme",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	{
+		"name": "Mojave",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/7%20-%20mojave%20-%20apple.png",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/7-preview.png",
+		"collections": "Apple",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	{
+		"name": "Nord",
+		"url": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/8%20-%20nord%20-%20hampus%20olsson.png?raw=true",
+		"thumbnail": "https://rawcdn.githack.com/safeboot/depthicons/ba7f34702b2147ea5be810015dd79391577b5f75/wallpapers/8-preview.png",
+		"collections": "Hampus Olsson",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px",
+	},
+	
+	
 ]
