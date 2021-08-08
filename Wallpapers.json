@@ -69,7 +69,14 @@
 		"collections": "Hampus Olsson",
 		"downloadable": true,
 		"dimensions": "1080 x 2400 px"
+	},
+	
+	{
+		"name": "Material You",
+		"url": "https://raw.githubusercontent.com/safeboot/depthicons/main/wallpapers/9%20-%20material%20you%20-%20google.png",
+		"thumbnail": "https://raw.githubusercontent.com/safeboot/depthicons/main/wallpapers/9-preview.png",
+		"collections": "Google",
+		"downloadable": true,
+		"dimensions": "1080 x 2400 px"
 	}
-	
-	
 ]
